@@ -1,6 +1,0 @@
-// Hello Graphviz
-digraph {
-	A [label="Node A"]
-	B [label="Node B"]
-	A -> B [label="Edge from A to B"]
-}
